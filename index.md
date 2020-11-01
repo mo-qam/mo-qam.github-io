@@ -4,7 +4,7 @@
 
 ### Prototypes 
 
-[House of Life](/House_of_Life)
+[House of Life](/index.html)
 <img src="https://i.imgur.com/HE4aIIN.jpg?raw=true"/>
 
 ---
