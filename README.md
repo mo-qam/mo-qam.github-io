@@ -2,14 +2,14 @@
 
 ---
 
-### House of Life (Working Prototype)
-
-[Play](House_of_Life)
-<img src="ihttps://i.imgur.com/HE4aIIN.jpg?raw=true"/>
-
 ### Playtest
 
-[Play](House_of_Life)
+Playtest my game [here!](playtest)
+<img src="ihttps://i.imgur.com/HE4aIIN.jpg?raw=true"/>
+
+### House of Life
+
+[Play!](House_of_Life) the prototype
 <img src="ihttps://i.imgur.com/HE4aIIN.jpg?raw=true"/>
 
 ---
