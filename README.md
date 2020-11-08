@@ -7,10 +7,12 @@
 Playtest my game [here!](playtest)
 <img src="ihttps://i.imgur.com/HE4aIIN.jpg?raw=true"/>
 
-### House of Life
+### Play the game
 
-[Play!](House_of_Life) the prototype
+play the game prototype [here](House_of_Life)
 <img src="ihttps://i.imgur.com/HE4aIIN.jpg?raw=true"/>
+
+### Complete the playtest survey
 
 ---
 
